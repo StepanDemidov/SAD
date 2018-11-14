@@ -1,0 +1,14 @@
+.container{
+    background: palegreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background: paleturquoise;
+}
